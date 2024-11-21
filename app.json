@@ -1,0 +1,35 @@
+{
+    "name": "𝔸ℝ𝔸ℕ𝕂  𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "logo": "https://graph.org/file/647e72ff90c85309ed4f3-da5752f1a1d68e828d.jpg",
+    "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
+    "keywords": ["pyrogram", "userbot"],
+    "repository": "https://github.com/C0DERXKRISHNA/ARANK_USERBOT",
+  "stack": "container",
+    "env": {
+        "STRING_SESSION1": {
+            "description": "fill with the Pyrogram v2 session string",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "Fill there an mongo database from mongodb.com",
+            "required": true,
+            "value": "mongodb+srv://krishna@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        },
+        "SUDO_USERS": {
+            "description": "don't Change this there /id",
+            "required": true,
+            "value": "5561431531"
+        },
+        "OWNER_ID": {
+            "description": "Fill there your I'd",
+            "required": true,
+            "value": "5561431531"
+        },
+        "BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }
+
+    }
+  }
