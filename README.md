@@ -48,4 +48,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE PURVI MUSIC™](https://github.com/C0DERXKRISHNA) ғᴏʀ [𝖳sukino Music](https://github.com/C0DERXKRISHNA/Tsukino_Music) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [THE TSUKINO MUSICC™](https://github.com/C0DERXKRISHNA) ғᴏʀ [𝖳sukino Music](https://github.com/C0DERXKRISHNA/Tsukino_Music) </b>
